@@ -2,8 +2,8 @@
  Task for Fyntune
 
 # login credentials 
-Username : akshay12@gmail.com
-Password : 12345678
+Username : admin@admin.com
+Password : admin123
 
 # screenshots
 uploaded in the screenhots folder
